@@ -1,0 +1,9 @@
+{
+  "name": "MiloBot",
+  "description": "A Simple discord bot",
+  "repository": "https://github.com/b0tdev/MiloBot",
+  "env": {
+    "TOKEN": {
+      "description": "Your discord bot's token.",
+      "required": true
+    }
