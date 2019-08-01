@@ -2,7 +2,7 @@
   "name": "MiloBot",
   "description": "A Simple discord bot",
   "repository": "https://github.com/b0tdev/MiloBot",
-  "patreon": " https://patreon.com/PrabaRock7
+  "patreon": " https://patreon.com/PrabaRock7",
   "env": {
     "TOKEN": {
       "description": "Your discord bot's token.",
